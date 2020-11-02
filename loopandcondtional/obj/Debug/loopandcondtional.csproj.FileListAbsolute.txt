@@ -1,0 +1,7 @@
+D:\day1-c#\Firstprojectapplication\loopandcondtional\bin\Debug\loopandcondtional.exe.config
+D:\day1-c#\Firstprojectapplication\loopandcondtional\bin\Debug\loopandcondtional.exe
+D:\day1-c#\Firstprojectapplication\loopandcondtional\bin\Debug\loopandcondtional.pdb
+D:\day1-c#\Firstprojectapplication\loopandcondtional\obj\Debug\loopandcondtional.csprojAssemblyReference.cache
+D:\day1-c#\Firstprojectapplication\loopandcondtional\obj\Debug\loopandcondtional.csproj.CoreCompileInputs.cache
+D:\day1-c#\Firstprojectapplication\loopandcondtional\obj\Debug\loopandcondtional.exe
+D:\day1-c#\Firstprojectapplication\loopandcondtional\obj\Debug\loopandcondtional.pdb

@@ -1,0 +1,7 @@
+D:\day1-c#\Firstprojectapplication\Basiceg\obj\Debug\Basiceg.csprojAssemblyReference.cache
+D:\day1-c#\Firstprojectapplication\Basiceg\obj\Debug\Basiceg.csproj.CoreCompileInputs.cache
+D:\day1-c#\Firstprojectapplication\Basiceg\bin\Debug\Basiceg.exe.config
+D:\day1-c#\Firstprojectapplication\Basiceg\bin\Debug\Basiceg.exe
+D:\day1-c#\Firstprojectapplication\Basiceg\bin\Debug\Basiceg.pdb
+D:\day1-c#\Firstprojectapplication\Basiceg\obj\Debug\Basiceg.exe
+D:\day1-c#\Firstprojectapplication\Basiceg\obj\Debug\Basiceg.pdb
