@@ -5,3 +5,10 @@ D:\day1-c#\Firstprojectapplication\Basiceg\bin\Debug\Basiceg.exe
 D:\day1-c#\Firstprojectapplication\Basiceg\bin\Debug\Basiceg.pdb
 D:\day1-c#\Firstprojectapplication\Basiceg\obj\Debug\Basiceg.exe
 D:\day1-c#\Firstprojectapplication\Basiceg\obj\Debug\Basiceg.pdb
+D:\chandana-GET-LTI\C SHARP\sandeep\Basiceg\bin\Debug\Basiceg.exe.config
+D:\chandana-GET-LTI\C SHARP\sandeep\Basiceg\bin\Debug\Basiceg.exe
+D:\chandana-GET-LTI\C SHARP\sandeep\Basiceg\bin\Debug\Basiceg.pdb
+D:\chandana-GET-LTI\C SHARP\sandeep\Basiceg\obj\Debug\Basiceg.csprojAssemblyReference.cache
+D:\chandana-GET-LTI\C SHARP\sandeep\Basiceg\obj\Debug\Basiceg.csproj.CoreCompileInputs.cache
+D:\chandana-GET-LTI\C SHARP\sandeep\Basiceg\obj\Debug\Basiceg.exe
+D:\chandana-GET-LTI\C SHARP\sandeep\Basiceg\obj\Debug\Basiceg.pdb
